@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spring DB Auditor"
+  short_description: "Deep Spring Boot DB and transaction bottleneck auditor"
+  default_prompt: "Audit this Spring Boot application exhaustively for database and transaction bottlenecks. Trace complete execution paths, verify against the actual database when a read-only DB connector is available, and prove coverage before declaring the audit complete."
