@@ -1,0 +1,3 @@
+interface:
+  display_name: "Spring Performance Analyzer"
+  short_description: "Deep static and PERF runtime analysis for Spring Boot services"
